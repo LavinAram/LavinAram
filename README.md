@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola, I'm Lavin! 👋
 
-<!--
-**LavinAram/LavinAram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+get to know me dude ..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a lot of stuffs.
+- 🌱 I’m currently learning HTML.
+- 🤔 I’m looking for help with Java.
+- 💬 Ask me about NOTHING pls lol
+- 📫 How to reach me: IG - @lavin.aram1919
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can't code without listening to rain sound on youtube! crazy right?
+
